@@ -1,0 +1,4 @@
+flask=1.0.*
+gunicorn=19.8.*
+python=3.6.*
+pymysql=0.9.3*
